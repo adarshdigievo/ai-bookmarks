@@ -64,6 +64,13 @@ Works by connecting to a Github repo and taking up tasks.
 - Container use: https://github.com/dagger/container-use - Development environments for coding agents.
 - E2B: https://github.com/e2b-dev/E2B - Open source cloud runtime for AI apps & AI agents
 
+## GUI Agent Builders (Open source)
+
+These are open-sourrce, self-hostable AI agent workflow builders:
+- N8N: https://github.com/n8n-io/n8n
+- Flowise: https://github.com/FlowiseAI/Flowise
+- Sim Studio: https://github.com/simstudioai/sim
+
 ## Prompts
 
 - TheBigPromptLibrary : https://github.com/0xeb/TheBigPromptLibrary/tree/main
